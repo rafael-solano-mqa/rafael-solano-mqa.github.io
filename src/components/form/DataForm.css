@@ -1,0 +1,11 @@
+.data-form {
+    margin:auto;
+    width: 100%;
+} 
+
+.error-message {
+    color: #D8000C !important;
+    background-color: #FFD2D2 !important;
+    border: 1px solid #D8000C !important;
+    border-left: 7px solid #D8000C !important;
+}

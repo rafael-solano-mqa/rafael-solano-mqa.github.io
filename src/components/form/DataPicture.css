@@ -1,0 +1,29 @@
+.data-picture {
+    padding:0;
+    margin:0;
+    width:100%
+}
+
+.data-picture .snapshot {
+    width:100%
+}
+
+.data-picture-actions {    
+    padding:0;
+    margin:0;
+}
+
+.data-picture-button {
+    margin-right:1em;
+}
+
+.no-gap {
+    margin:0 !important;
+    padding:0;
+}
+
+.data-picture-action {
+    width: 5em;
+    margin-left:1em;
+    margin-right:em;
+}

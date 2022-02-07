@@ -1,0 +1,9 @@
+.analytical-table-title {
+    float:left;
+    margin-top:8px;
+    margin-bottom:8px;
+  }
+
+.analytical-table-container {
+    clear:both;
+}

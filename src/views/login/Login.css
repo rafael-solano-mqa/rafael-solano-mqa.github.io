@@ -1,0 +1,15 @@
+.login-dialog {
+    background-color: antiquewhite;
+}
+
+.login-dialog-bar {
+    background-color: antiquewhite;
+}
+
+.login-dialog-form .ui5-label {
+    text-align: right;
+}
+
+.login-input {
+    width:100%;
+}

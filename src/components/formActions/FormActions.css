@@ -1,0 +1,16 @@
+.form-actions {
+  text-align: right;
+}
+
+.form-actions .sapui-button {
+  margin-right: 0.5em;
+}
+
+.form-actions-title {
+  float:left;
+}
+
+
+.form-actions .col-12 {
+  margin-left:0px;
+}

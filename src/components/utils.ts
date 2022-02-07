@@ -1,0 +1,1 @@
+export const validateObject = (o: any) => o ? Object.getOwnPropertyNames(o).length !== 0 : false
