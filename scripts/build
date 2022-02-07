@@ -1,0 +1,12 @@
+#!/bin/bash
+DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
+PROJECT_DIR="${DIR}/.."
+cd ${PROJECT_DIR}
+
+yarn build
+STATUS=$?
+if [ $STATUS -ne 0 ]
+then
+    echo "React builder finished with error status $STATUS"
+    exit -1
+fi

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# github user: rafael-solano-mqa
+# github password: Vasorange#1
+
+DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
+PROJECT_DIR="${DIR}/.."
+cd ${PROJECT_DIR}
+
+
